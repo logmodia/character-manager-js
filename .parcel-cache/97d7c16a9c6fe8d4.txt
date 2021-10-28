@@ -1,4 +1,4 @@
-15927
+15942
 86C:\Users\Baptiste\Documents\becode\character-manager-js\node_modules\crypto-browserify132799017350353634 1
 107C:\Users\Baptiste\Documents\becode\character-manager-js\node_modules\fast-json-stable-stringify\test\cmp.js132797560599862254 0
 112C:\Users\Baptiste\Documents\becode\character-manager-js\node_modules\uncss\node_modules\postcss\lib\container.js132797560649230932 0
@@ -92,7 +92,7 @@
 90C:\Users\Baptiste\Documents\becode\character-manager-js\node_modules\fs.realpath\README.md132797560594549497 0
 88C:\Users\Baptiste\Documents\becode\character-manager-js\node_modules\safe-buffer\LICENSE132797560582205145 0
 133C:\Users\Baptiste\Documents\becode\character-manager-js\node_modules\@parcel\core\test\fixtures\custom-format-infer-type\package.json132797560893230678 0
-60C:\Users\Baptiste\Documents\becode\character-manager-js\docs132799019306328031 1
+60C:\Users\Baptiste\Documents\becode\character-manager-js\docs132799077799056660 1
 90C:\Users\Baptiste\Documents\becode\character-manager-js\node_modules\core-js\stable\regexp132799017331042593 1
 74C:\Users\Baptiste\Documents\becode\character-manager-js\node_modules\fastq132799017473730346 1
 97C:\Users\Baptiste\Documents\becode\character-manager-js\node_modules\weak-lru-cache\tests\test.js132797560670815998 0
@@ -445,6 +445,7 @@
 84C:\Users\Baptiste\Documents\becode\character-manager-js\node_modules\jsbn\.npmignore132797560593455690 0
 82C:\Users\Baptiste\Documents\becode\character-manager-js\node_modules\acorn-globals132799017127906414 1
 116C:\Users\Baptiste\Documents\becode\character-manager-js\node_modules\msgpackr-extract\.github\workflows\prebuild.yml132797560872582168 0
+79C:\Users\Baptiste\Documents\becode\character-manager-js\docs\index.3c0b6d3e.css132799077798336181 0
 117C:\Users\Baptiste\Documents\becode\character-manager-js\node_modules\caniuse-lite\data\features\css-touch-action-2.js132797560904438346 0
 84C:\Users\Baptiste\Documents\becode\character-manager-js\node_modules\which\README.md132797560624990394 0
 93C:\Users\Baptiste\Documents\becode\character-manager-js\node_modules\pako\lib\utils\common.js132797560651787836 0
@@ -1564,6 +1565,7 @@
 108C:\Users\Baptiste\Documents\becode\character-manager-js\node_modules\es-abstract\2018\OrdinaryHasInstance.js132797560982098746 0
 77C:\Users\Baptiste\Documents\becode\character-manager-js\node_modules\inherits132799017544207188 1
 109C:\Users\Baptiste\Documents\becode\character-manager-js\node_modules\es-abstract\2020\IsNonNegativeInteger.js132797560962423939 0
+100C:\Users\Baptiste\Documents\becode\character-manager-js\docs\html\characterEditorCreator.71dfde42.js132799077798396215 0
 93C:\Users\Baptiste\Documents\becode\character-manager-js\node_modules\postcss-unique-selectors132799017809583010 1
 73C:\Users\Baptiste\Documents\becode\character-manager-js\node_modules\util132799017901328436 1
 87C:\Users\Baptiste\Documents\becode\character-manager-js\node_modules\lodash\fp\unzip.js132797561005216523 0
@@ -1724,6 +1726,7 @@
 89C:\Users\Baptiste\Documents\becode\character-manager-js\node_modules\is-unicode-supported132799017564304224 1
 93C:\Users\Baptiste\Documents\becode\character-manager-js\node_modules\lodash\_cloneDataView.js132797560884904919 0
 121C:\Users\Baptiste\Documents\becode\character-manager-js\node_modules\msgpackr-extract\prebuilds\linux-x64\node.abi93.node132797560869126157 0
+82C:\Users\Baptiste\Documents\becode\character-manager-js\docs\index.5cfd0e14.js.map132799077798986622 0
 81C:\Users\Baptiste\Documents\becode\character-manager-js\node_modules\levn\LICENSE132797560607518910 0
 92C:\Users\Baptiste\Documents\becode\character-manager-js\node_modules\@types\node\stream.d.ts132797560859336879 0
 95C:\Users\Baptiste\Documents\becode\character-manager-js\node_modules\v8-compile-cache\README.md132797560654032544 0
@@ -3295,6 +3298,7 @@
 109C:\Users\Baptiste\Documents\becode\character-manager-js\node_modules\uri-js\dist\esnext\schemes\urn-uuid.d.ts132797560847487463 0
 89C:\Users\Baptiste\Documents\becode\character-manager-js\node_modules\vendors\package.json132797560608300238 0
 86C:\Users\Baptiste\Documents\becode\character-manager-js\node_modules\unpipe\HISTORY.md132797560646092961 0
+100C:\Users\Baptiste\Documents\becode\character-manager-js\docs\html\characterEditorCreator.1610fa22.js132799077798336181 0
 84C:\Users\Baptiste\Documents\becode\character-manager-js\node_modules\.bin\mkdirp.ps1132797561096601268 0
 113C:\Users\Baptiste\Documents\becode\character-manager-js\node_modules\postcss-modules-extract-imports\node_modules132799017779479255 1
 120C:\Users\Baptiste\Documents\becode\character-manager-js\node_modules\is-negative-zero\.github\workflows\node-pretest.yml132797560730112496 0
@@ -7239,6 +7243,7 @@
 91C:\Users\Baptiste\Documents\becode\character-manager-js\node_modules\object-inspect\.github132799017719646720 1
 93C:\Users\Baptiste\Documents\becode\character-manager-js\node_modules\create-hmac\package.json132797560581580120 0
 91C:\Users\Baptiste\Documents\becode\character-manager-js\node_modules\object-inspect\example132799017720337176 1
+104C:\Users\Baptiste\Documents\becode\character-manager-js\docs\html\characterEditorCreator.1610fa22.js.map132799077798946590 0
 96C:\Users\Baptiste\Documents\becode\character-manager-js\node_modules\object-inspect\package.json132797560808019303 0
 98C:\Users\Baptiste\Documents\becode\character-manager-js\node_modules\es-abstract\2020\BinaryXor.js132797560871800876 0
 104C:\Users\Baptiste\Documents\becode\character-manager-js\node_modules\es-abstract\2021\GetSubstitution.js132797560936380518 0
@@ -10057,6 +10062,7 @@
 97C:\Users\Baptiste\Documents\becode\character-manager-js\node_modules\inherits\inherits_browser.js132797560596424590 0
 90C:\Users\Baptiste\Documents\becode\character-manager-js\node_modules\inherits\package.json132797560581580120 0
 87C:\Users\Baptiste\Documents\becode\character-manager-js\node_modules\inherits\README.md132797560646405494 0
+93C:\Users\Baptiste\Documents\becode\character-manager-js\docs\html\characterEditorCreator.html132799077798316228 0
 89C:\Users\Baptiste\Documents\becode\character-manager-js\node_modules\inflight\inflight.js132797560623068223 0
 85C:\Users\Baptiste\Documents\becode\character-manager-js\node_modules\inflight\LICENSE132797560608143905 0
 88C:\Users\Baptiste\Documents\becode\character-manager-js\node_modules\indexes-of\index.js132797560643735991 0
@@ -11317,6 +11323,7 @@
 105C:\Users\Baptiste\Documents\becode\character-manager-js\node_modules\es-abstract\2020\Number\sameValue.js132797560987880291 0
 109C:\Users\Baptiste\Documents\becode\character-manager-js\node_modules\es-abstract\2020\Number\sameValueZero.js132797560989599135 0
 112C:\Users\Baptiste\Documents\becode\character-manager-js\node_modules\es-abstract\2020\Number\signedRightShift.js132797560994183637 0
+71C:\Users\Baptiste\Documents\becode\character-manager-js\docs\index.html132799077798336181 0
 114C:\Users\Baptiste\Documents\becode\character-manager-js\node_modules\es-abstract\2020\Number\unsignedRightShift.js132797561032161901 0
 108C:\Users\Baptiste\Documents\becode\character-manager-js\node_modules\es-abstract\2020\BigInt\exponentiate.js132797560918345252 0
 110C:\Users\Baptiste\Documents\becode\character-manager-js\node_modules\core-js\internals\advance-string-index.js132797560767629681 0
@@ -13674,6 +13681,7 @@
 146C:\Users\Baptiste\Documents\becode\character-manager-js\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.linux-arm64-gnu.node132797560859180618 0
 103C:\Users\Baptiste\Documents\becode\character-manager-js\node_modules\core-js\features\date\to-string.js132797561078120626 0
 101C:\Users\Baptiste\Documents\becode\character-manager-js\node_modules\core-js\features\bigint\index.js132797561016154619 0
+65C:\Users\Baptiste\Documents\becode\character-manager-js\docs\html132799077799086695 1
 120C:\Users\Baptiste\Documents\becode\character-manager-js\node_modules\core-js\features\async-iterator\as-indexed-pairs.js132797560866723329 0
 108C:\Users\Baptiste\Documents\becode\character-manager-js\node_modules\core-js\features\async-iterator\drop.js132797560917563966 0
 89C:\Users\Baptiste\Documents\becode\character-manager-js\node_modules\astring\CHANGELOG.md132797560716456877 0
@@ -13691,6 +13699,7 @@
 105C:\Users\Baptiste\Documents\becode\character-manager-js\node_modules\core-js\features\array\filter-out.js132797560984130123 0
 108C:\Users\Baptiste\Documents\becode\character-manager-js\node_modules\core-js\features\array\filter-reject.js132797560984442615 0
 105C:\Users\Baptiste\Documents\becode\character-manager-js\node_modules\core-js\features\array\find-index.js132797560986317701 0
+78C:\Users\Baptiste\Documents\becode\character-manager-js\docs\index.5cfd0e14.js132799077798396215 0
 103C:\Users\Baptiste\Documents\becode\character-manager-js\node_modules\core-js\features\array\flat-map.js132797560991317949 0
 105C:\Users\Baptiste\Documents\becode\character-manager-js\node_modules\core-js\features\array\from-async.js132797560995589966 0
 103C:\Users\Baptiste\Documents\becode\character-manager-js\node_modules\core-js\features\array\group-by.js132797561000348478 0
@@ -14575,6 +14584,7 @@
 91C:\Users\Baptiste\Documents\becode\character-manager-js\node_modules\call-bind\CHANGELOG.md132797560708637874 0
 91C:\Users\Baptiste\Documents\becode\character-manager-js\node_modules\call-bind\package.json132797560698853608 0
 83C:\Users\Baptiste\Documents\becode\character-manager-js\node_modules\call-bind\test132799017170565527 1
+93C:\Users\Baptiste\Documents\becode\character-manager-js\docs\html\singleCharacter.e09f6948.js132799077798366204 0
 96C:\Users\Baptiste\Documents\becode\character-manager-js\node_modules\call-bind\test\callBound.js132797560665091058 0
 98C:\Users\Baptiste\Documents\becode\character-manager-js\node_modules\call-bind\.github\FUNDING.yml132797560722339533 0
 87C:\Users\Baptiste\Documents\becode\character-manager-js\node_modules\bytes\package.json132797560578454947 0
@@ -15608,6 +15618,7 @@
 115C:\Users\Baptiste\Documents\becode\character-manager-js\node_modules\@parcel\babel-ast-utils\lib\babelErrorUtils.js132797560642434438 0
 109C:\Users\Baptiste\Documents\becode\character-manager-js\node_modules\@parcel\babel-ast-utils\lib\generator.js132797560737128618 0
 105C:\Users\Baptiste\Documents\becode\character-manager-js\node_modules\@parcel\babel-ast-utils\lib\index.js132797560754792301 0
+83C:\Users\Baptiste\Documents\becode\character-manager-js\docs\index.3c0b6d3e.css.map132799077798966621 0
 85C:\Users\Baptiste\Documents\becode\character-manager-js\node_modules\@nodelib\fs.stat132799016958436975 1
 98C:\Users\Baptiste\Documents\becode\character-manager-js\node_modules\@nodelib\fs.walk\package.json132797560738822190 0
 103C:\Users\Baptiste\Documents\becode\character-manager-js\node_modules\@nodelib\fs.walk\out\settings.d.ts132797560784059561 0
@@ -15918,6 +15929,10 @@
 78C:\Users\Baptiste\Documents\becode\character-manager-js\node_modules\.bin\uuid132797561096913778 0
 79C:\Users\Baptiste\Documents\becode\character-manager-js\node_modules\.bin\which132797561096913778 0
 83C:\Users\Baptiste\Documents\becode\character-manager-js\node_modules\.bin\which.ps1132797561096913778 0
+79C:\Users\Baptiste\Documents\becode\character-manager-js\docs\white.17e8d05f.jpg132799077755008074 0
+104C:\Users\Baptiste\Documents\becode\character-manager-js\docs\html\characterEditorCreator.71dfde42.js.map132799077798986622 0
+97C:\Users\Baptiste\Documents\becode\character-manager-js\docs\html\singleCharacter.e09f6948.js.map132799077798966621 0
+86C:\Users\Baptiste\Documents\becode\character-manager-js\docs\html\singleCharacter.html132799077798356194 0
 78C:\Users\Baptiste\Documents\becode\character-manager-js\dist\index.26dd983f.js132799076747191046 0
 79C:\Users\Baptiste\Documents\becode\character-manager-js\dist\index.7778c26e.css132799020411640667 0
 83C:\Users\Baptiste\Documents\becode\character-manager-js\dist\index.7778c26e.css.map132799020412431196 0

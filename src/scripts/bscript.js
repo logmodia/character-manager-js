@@ -93,8 +93,15 @@ const saveCharacters = async () => {
     characterToPut.shortDescription = document.querySelector('.inputShortDescription').value
 
     //do not post/put with an empty field
-    if ((characterToPut.image==null) || (characterToPut.image==undefined) || (characterToPut.name==null) || (characterToPut.name==undefined) || (characterToPut.description==null) || (characterToPut.description==undefined) || (characterToPut.shortDescription==null) || (characterToPut.shortDescription==undefined)){
-        alert("You have to fill all available fields, including adding a picture") //replace with sweet alert
+    if ((characterToPut.image==null) || (characterToPut.image==undefined)|| (characterToPut.image=='') || (characterToPut.name==null) || (characterToPut.name==undefined) || (characterToPut.name=='') || (characterToPut.description==null) || (characterToPut.description==undefined)|| (characterToPut.description=='') || (characterToPut.shortDescription==null) || (characterToPut.shortDescription==undefined) || (characterToPut.shortDescription=='')){
+        //Alert("You have to fill all available fields, including adding a picture") //replace with sweet alert
+        Swal.fire({
+            position: 'center',
+            icon: 'warning',
+            title: 'You have to fill all available fields, including adding a picture',
+            showConfirmButton: true,
+            
+          })
     }
     else {
 try {
@@ -105,19 +112,42 @@ try {
         headers: {"Content-type": "application/json; charset=UTF-8"}
     })
 } catch (err) {console.log("error occured during saving" + err)}
-    alert("saved") //replace with sweet alert with duration 2000ms
-    setTimeout(window.location.href = '../index.html',2000)
+    //Swal.fire("saved") //replace with sweet alert with duration 2000ms
+    Swal.fire({
+        position: 'center',
+        icon: 'success',
+        title: 'Your changes has been saved',
+        showConfirmButton: false,
+        timer: 2000,
+        
+      })
+      .then(()=>window.location.href = '../index.html')
 }
 }
 const submitButton = document.querySelector('#saveModifications');
 submitButton.addEventListener('click',saveCharacters);
 
 document.getElementById('abort').addEventListener('click', ()=>{
-    let abort = window.confirm("Continue? Your modifications will not be saved!\nThis will redirect you to the main page");
-    if (abort==true) {
+    //let abort = window.confirm("Continue? Your modifications will not be saved!\nThis will redirect you to the main page");
+    Swal.fire({
+        position: 'center',
+        icon: 'question',
+        title: 'Abort changes',
+        html: 'Your changes will not be saved!<br/>This will redirect you to the main page',
+        
+        showDenyButton: true,
+        confirmButtonText: 'Yes, continue',
+        denyButtonText: `No, Don't continue`,
+                
+      })
+      .then((result)=>{
+            if (result.isConfirmed){window.location.href = '../index.html'}
+        })
+
+    /* if (abort==true) {
         window.location.href = '../index.html'
     }
-    else {}
+    else {} */
 })
 
 

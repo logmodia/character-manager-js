@@ -78,6 +78,10 @@ const searchStates = async searchtext =>{
 
 searchInput.addEventListener("input",()=>searchStates(searchInput.value))
 
-let addBtn = document.querySelector(".characterList__containerAddButton").addEventListener("click",()=>localStorage["stored"] = 0)
+let addBtn = document.querySelector(".characterList__containerAddButton").addEventListener("click",
+()=>{
+    localStorage["stored"] = 0
+    console.log(localStorage["stored"])
+})
 
 
