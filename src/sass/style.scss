@@ -1,0 +1,30 @@
+@import "./reset";
+
+@import url("https://fonts.googleapis.com/css2?family=Metal+Mania&display=swap");
+
+@import url('https://fonts.googleapis.com/css2?family=Scheherazade+New&display=swap');
+* {
+    font-family: 'Scheherazade New', serif;
+    box-sizing: border-box;
+  }
+
+  .characterName{
+    font-family: "Metal Mania", cursive;
+    font-size: 1rem;
+    font-weight: bold;
+    word-spacing: 5px;
+    letter-spacing: 3px;
+    color: rgb(177, 80, 80);
+  }
+
+  .shortDescription{
+    font-weight: bold;
+    font-size: .9rem;
+    color: rgb(104, 102, 102);
+  }
+
+  @import "./_header";
+  @import "./_onlyIndexPage";
+  @import "./_footer";
+  @import "./_singleCharacter";
+  @import "./_characterEditorCreator";

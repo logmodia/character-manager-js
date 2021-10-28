@@ -1,0 +1,41 @@
+.editorBody {
+    .cardContainer {
+        display: flex;
+    justify-content: center;
+        background-color: rgba($color: #8f680c, $alpha: .8);
+        width: 100%;
+        padding: 1rem;
+    }
+    .card {
+        margin: 0 auto;
+            padding: 3rem;
+            text-align: center;
+            max-width: 500px;
+    
+            border: 1px solid rgba($color: #f1e1c3, $alpha: .8);
+            border-radius: 20px;
+            background-color:rgba($color: #f1e1c3, $alpha: 1);
+            box-shadow: 5px 5px 5px rgb(194, 193, 193);
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            gap: 1rem;
+    }
+    .actionButtons{
+        background-color: rgb(147, 147, 248);
+                   box-shadow: 5px 5px 5px rgb(177, 174, 174);
+                   padding: 0px 10px;
+                   border: 0px;
+                   border-radius: 5px;
+                   font-size: 2rem;
+                   font-weight: bold;
+                   color: white;
+               }
+            .actionButtons:hover{
+                   box-shadow: inset 0 0 1em gold, 0 0 1em rgb(247, 71, 94);
+                   color: whitesmoke;
+                   background-color: rgb(240, 90, 90);
+                   cursor: pointer;
+               }
+}

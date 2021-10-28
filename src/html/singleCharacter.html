@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Character Viewer</title>
+    <link rel="stylesheet" href="../sass/style.scss">
+    <link rel="stylesheet"  href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" 
+    integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm"
+            crossorigin="anonymous" />
+</head>
+<body class="singleBody">
+        <header class="header">
+            <nav class="nav">
+                <ul class="nav__list">
+                    <a href="../index.html"><i class="fa-solid fa-circle-chevron-left"></i></a>
+                   <a href="../index.html"> <li class="nav__list__element">Home</li></a>
+                   <a href="#"><li class="nav__list__element">about</li></a>
+                    <a href="#"><li class="nav__list__element">Conctact</li></a>
+                </ul>
+            </nav>
+        </header>
+    <main>
+        <div class="singleContainer">
+            <h1>Character Viewer</h1>
+            <input type="search" name="searchField" id="singleCharacterSearch">
+            <div class="cardContainer">
+                <div class="card">
+                    <img class="singleImg" src="../images/white.jpg" alt="character images">
+                    <h2 class="singleCharacterName"></h2>
+                    <p class="singleShortDescription"></p>
+                    <p class="singleLongDescription"></p>
+                    <a href="characterEditorCreator.html">Edit</a>
+                    <a href="../index.html">Back</a>
+                </div>
+            </div>
+        </div>
+    </main>
+    <footer class="footer">
+        <div class="footer__div">
+            <div class="footer__div__nav">
+                <ul class="footer__div__nav__list">
+                    <a href="#" class="footer__div__nav__list__a">
+                        <li class="footer__div__nav__list__element"><i class="fab fa-facebook-f"></i></li>
+                    </a>
+                    <a href="#" class="footer__div__nav__list__a">
+                        <li class="footer__div__nav__list__element"><i class="fab fa-instagram"></i></li>
+                    </a>
+                    <a href="#" class="footer__div__nav__list__a">
+                        <li class="footer__div__nav__list__element"><i class="fab fa-twitter"></i></li>
+                    </a>
+                </ul>
+            </div>
+    
+            <p class="footer__copyright">
+                © 2021 Character manager. Privacy Policy
+            </p>
+        </div>
+    </footer>
+    <script src="../scripts/cscript.js"></script>
+</body>
+</html>
